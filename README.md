@@ -29,7 +29,7 @@ Note:\
 Render isn't working at the moment, recommend to clone to repo and try in your local.\
 When a music is downloaded, it will have random download file and a music file.\
 Delete the download file, that one doesn't work, trying to figure out how to make it not happen.\
-Music file will be downloaded and date of download being when the music is uploaded (not current date and time of when it happened, tyring to figure this out too).\
+Music file will be downloaded and date of download being when the music is uploaded (not current date and time of when it happened, tyring to figure this out too).
 
 <br>
 Music downloader. This is only made for educational purpose only.\
